@@ -1,0 +1,1602 @@
+[
+  {
+    "city": "Paris",
+    "country": "France",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Paris is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Paris has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Tokyo is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Tokyo has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "New York",
+    "country": "USA",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "New York is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "New York has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "London is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "London has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Sydney is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Sydney has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Rome is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Rome has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Berlin is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Berlin has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Beijing is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Beijing has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Rio de Janeiro is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Rio de Janeiro has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Cape Town is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Cape Town has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Moscow is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Moscow has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Dubai is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Dubai has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Bangkok is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Bangkok has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Toronto is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Toronto has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Istanbul is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Istanbul has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Singapore is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Singapore has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Barcelona is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Barcelona has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Mexico City is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Mexico City has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Mumbai is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Mumbai has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Cairo is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Cairo has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Los Angeles is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Los Angeles has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Amsterdam is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Amsterdam has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Seoul is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Seoul has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Athens is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Athens has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Lisbon is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Lisbon has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Vienna is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Vienna has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Havana is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Havana has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Buenos Aires is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Buenos Aires has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Lima is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Lima has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Jakarta is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Jakarta has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "country": "India",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Bangalore is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Bangalore has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Prague is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Prague has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Stockholm is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Stockholm has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Helsinki is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Helsinki has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Oslo is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Oslo has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Kuala Lumpur is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Kuala Lumpur has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Warsaw is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Warsaw has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Dublin is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Dublin has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Edinburgh is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Edinburgh has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Bogotá",
+    "country": "Colombia",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Bogotá is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Bogotá has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Manila is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Manila has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "San Francisco is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "San Francisco has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Chicago is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Chicago has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Venice is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Venice has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Brussels is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Brussels has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Zurich is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Zurich has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Geneva is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Geneva has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Copenhagen is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Copenhagen has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Budapest is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Budapest has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Santiago is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Santiago has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Montreal is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Montreal has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Casablanca is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Casablanca has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Ho Chi Minh City is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Ho Chi Minh City has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Taipei is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Taipei has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Nairobi is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Nairobi has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Seville",
+    "country": "Spain",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Seville is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Seville has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Kyoto is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Kyoto has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Boston",
+    "country": "USA",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Boston is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Boston has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "San Diego",
+    "country": "USA",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "San Diego is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "San Diego has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Hanoi is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Hanoi has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Munich is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Munich has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Florence",
+    "country": "Italy",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Florence is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Florence has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Marrakech is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Marrakech has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Doha is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Doha has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Johannesburg is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Johannesburg has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Brisbane",
+    "country": "Australia",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Brisbane is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Brisbane has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Christchurch is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Christchurch has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Auckland is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Auckland has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Bogor",
+    "country": "Indonesia",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Bogor is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Bogor has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Yangon",
+    "country": "Myanmar",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Yangon is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Yangon has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Colombo is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Colombo has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Islamabad is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Islamabad has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Dhaka is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Dhaka has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "La Paz",
+    "country": "Bolivia",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "La Paz is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "La Paz has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Quito",
+    "country": "Ecuador",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Quito is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Quito has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Caracas is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Caracas has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Addis Ababa",
+    "country": "Ethiopia",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Addis Ababa is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Addis Ababa has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Kigali",
+    "country": "Rwanda",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Kigali is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Kigali has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Accra is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Accra has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Lagos is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Lagos has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Beirut",
+    "country": "Lebanon",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Beirut is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Beirut has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Baku is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Baku has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Tbilisi is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Tbilisi has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Algiers is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Algiers has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Tunis",
+    "country": "Tunisia",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Tunis is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Tunis has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Phnom Penh",
+    "country": "Cambodia",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Phnom Penh is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Phnom Penh has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Kathmandu is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Kathmandu has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Yerevan",
+    "country": "Armenia",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Yerevan is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Yerevan has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "clues": [
+      "This city is known for its famous landmark: a cathedral.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Riyadh is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Riyadh has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Abu Dhabi is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Abu Dhabi has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "clues": [
+      "This city is known for its famous landmark: a tower.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Sofia is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Sofia has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Belgrade is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Belgrade has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Skopje",
+    "country": "North Macedonia",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Skopje is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Skopje has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Podgorica",
+    "country": "Montenegro",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Podgorica is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Podgorica has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant coastal views."
+    ],
+    "fun_fact": [
+      "Sarajevo is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Sarajevo has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a local delicacy."
+    ]
+  },
+  {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Ljubljana is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Ljubljana has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a world-famous street food."
+    ]
+  },
+  {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Vilnius is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Vilnius has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Riga",
+    "country": "Latvia",
+    "clues": [
+      "This city is known for its famous landmark: a fortress.",
+      "Visitors love exploring its vibrant food scene."
+    ],
+    "fun_fact": [
+      "Riga is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Riga has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "clues": [
+      "This city is known for its famous landmark: a market.",
+      "Visitors love exploring its vibrant history."
+    ],
+    "fun_fact": [
+      "Tallinn is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Tallinn has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "This city is known for its famous landmark: a palace.",
+      "Visitors love exploring its vibrant cultural heritage."
+    ],
+    "fun_fact": [
+      "Reykjavik is home to one of the world's most visited tourist attractions.",
+      "The city has a unique blend of modern and historical architecture."
+    ],
+    "trivia": [
+      "Reykjavik has been a center for trade and culture for centuries.",
+      "A famous dish from this city is a Michelin-star dish."
+    ]
+  }
+]
