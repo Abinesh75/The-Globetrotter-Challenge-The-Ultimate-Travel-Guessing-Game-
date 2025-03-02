@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const scoreElement = document.getElementById("userScore");
     let username = "";
 
-    // Start Game
     startGameButton.addEventListener("click", function () {
         username = usernameInput.value.trim();
         if (!username) {
@@ -29,7 +28,6 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
-    // Update Score
     function updateScore() {
         fetch(`/score/${username}`)
             .then(response => response.json())
@@ -38,7 +36,6 @@ document.addEventListener("DOMContentLoaded", function () {
             });
     }
 
-    // Load Question
     function loadQuestion() {
         fetch("/question")
             .then(response => response.json())
@@ -46,7 +43,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 clueElement.textContent = "Clues: " + data.clues.join(" | ");
                 choicesContainer.innerHTML = "";
                 
-                // Store correct answer globally
                 const correctAnswer = data.correct_answer;
 
                 data.choices.forEach(choice => {
@@ -57,18 +53,15 @@ document.addEventListener("DOMContentLoaded", function () {
                     choicesContainer.appendChild(button);
                 });
 
-                // Clear previous feedback
                 feedbackElement.innerHTML = "";
             });
     }
 
-    // Check Answer
     function checkAnswer(userAnswer, correctAnswer, funFact) {
         if (userAnswer === correctAnswer) {
             feedbackElement.innerHTML = `🎉 Correct! ${funFact}`;
             confettiEffect();
     
-            // Post correct answer and then update the score
             fetch("/answer", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
@@ -77,7 +70,7 @@ document.addEventListener("DOMContentLoaded", function () {
             .then(response => response.json())
             .then(data => {
                 if (data.correct) {
-                    setTimeout(updateScore, 500); // Delay to allow backend to update
+                    setTimeout(updateScore, 500);
                 }
             });
     
@@ -86,7 +79,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
     
-    // Challenge a Friend
     challengeButton.addEventListener("click", function () {
         fetch(`/challenge/${username}`)
             .then(response => response.json())
@@ -99,12 +91,9 @@ document.addEventListener("DOMContentLoaded", function () {
                 }
             });
     });
-    
 
-    // Load Next Question
     nextButton.addEventListener("click", loadQuestion);
 
-    // Confetti Animation for Correct Answers
     function confettiEffect() {
         const confetti = document.createElement("div");
         confetti.classList.add("confetti");

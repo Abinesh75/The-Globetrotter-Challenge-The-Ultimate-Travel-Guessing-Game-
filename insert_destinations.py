@@ -12,18 +12,14 @@ def get_db_connection():
 def insert_destinations(json_file):
     with open(json_file, "r", encoding="utf-8") as f:
         destinations = json.load(f)
-    
-    print(f"🔍 Total destinations in JSON: {len(destinations)}")  # Debugging output
-    
+
     conn = get_db_connection()
     cursor = conn.cursor()
     
     inserted_count = 0
     
     for i, dest in enumerate(destinations):
-        # Ensure all required fields exist
         if "city" not in dest or "country" not in dest or "clues" not in dest or "fun_fact" not in dest or "trivia" not in dest:
-            print(f"⚠️ Skipping entry {i + 1}: Missing required fields. Data: {dest}")
             continue
         
         try:
@@ -41,15 +37,14 @@ def insert_destinations(json_file):
                 )
             )
             inserted_count += 1
-        except mysql.connector.Error as err:
-            print(f"❌ Error inserting entry {i + 1}: {err}")
+        except mysql.connector.Error:
             continue
     
     conn.commit()
     cursor.close()
     conn.close()
     
-    print(f"✅ Successfully inserted {inserted_count} destinations!")
+    print(f"Successfully inserted {inserted_count} destinations!")
 
 if __name__ == "__main__":
     insert_destinations("expanded_travel_dataset.json")

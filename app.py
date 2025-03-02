@@ -7,7 +7,6 @@ import json
 app = Flask(__name__)
 CORS(app)
 
-# Database connection
 def get_db_connection():
     return mysql.connector.connect(
         host="localhost",
@@ -20,7 +19,6 @@ def get_db_connection():
 def home():
     return render_template("index.html")
 
-# Register user
 @app.route("/register", methods=["POST"])
 def register_user():
     data = request.json
@@ -40,7 +38,6 @@ def register_user():
     conn.close()
     return jsonify(response)
 
-# Get a random question
 @app.route('/question', methods=['GET'])
 def get_question():
     conn = get_db_connection()
@@ -52,11 +49,9 @@ def get_question():
     if not destination:
         return jsonify({"error": "No questions found"}), 404
 
-    # Parse JSON fields
     destination["clues"] = json.loads(destination["clues"])
     destination["fun_fact"] = json.loads(destination["fun_fact"])
 
-    # Generate multiple-choice options
     cursor.execute("SELECT city FROM destinations ORDER BY RAND() LIMIT 3;")
     choices = [row["city"] for row in cursor.fetchall()]
     if destination["city"] not in choices:
@@ -91,10 +86,9 @@ def check_answer():
             cursor.execute("UPDATE users SET score = score + 1 WHERE username = %s", (username,))
             conn.commit()
 
-        # Fetch updated score
         cursor.execute("SELECT score FROM users WHERE username = %s", (username,))
         user_data = cursor.fetchone()
-        user_score = user_data["score"] if user_data else 0  # Default score to 0 if user not found
+        user_score = user_data["score"] if user_data else 0  
 
         message = {
             "correct": correct,
@@ -112,7 +106,6 @@ def check_answer():
     conn.close()
     return jsonify(message)
 
-# Get user score
 @app.route("/score/<username>", methods=["GET"])
 def get_score(username):
     conn = get_db_connection()
@@ -128,7 +121,6 @@ def get_score(username):
         return jsonify({"score": user["score"]})
     return jsonify({"error": "User not found"}), 404
 
-# Generate challenge link
 @app.route("/challenge/<username>", methods=["GET"])
 def generate_challenge(username):
     conn = get_db_connection()
@@ -147,6 +139,6 @@ def generate_challenge(username):
     
     return jsonify({"error": "User not found"}), 404
 
-
 if __name__ == "__main__":
     app.run(debug=True)
+
